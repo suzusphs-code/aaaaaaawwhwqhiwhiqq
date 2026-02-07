@@ -1,0 +1,147 @@
+{
+  "1017788834727067649": {
+    "balance": 437,
+    "diamonds": 10,
+    "characters": {
+      "Akaza": {
+        "rarity": "SSR",
+        "level": 1,
+        "fragments": 3
+      },
+      "Zenitsu Agatsuma": {
+        "rarity": "SR",
+        "level": 1,
+        "fragments": 12
+      },
+      "Muzan Kibutsuji": {
+        "rarity": "UR",
+        "level": 1,
+        "fragments": 0
+      },
+      "Nezuko Kamado": {
+        "rarity": "SSR",
+        "level": 1,
+        "fragments": 1
+      },
+      "Inosuke Hashibira": {
+        "rarity": "SR",
+        "level": 1,
+        "fragments": 2
+      },
+      "Yushiro": {
+        "rarity": "COMMON",
+        "level": 2,
+        "fragments": 10
+      },
+      "tanjiro_kamado": {
+        "rarity": "COMMON",
+        "level": 1,
+        "fragments": 0
+      },
+      "muzan_kibutsuji": {
+        "rarity": "COMMON",
+        "level": 1,
+        "fragments": 0
+      },
+      "kyojuro_rengoku": {
+        "rarity": "COMMON",
+        "level": 1,
+        "fragments": 1
+      },
+      "zenitsu_agatsuma": {
+        "rarity": "COMMON",
+        "level": 1,
+        "fragments": 0
+      },
+      "Tamayo": {
+        "rarity": "COMMON",
+        "level": 14,
+        "fragments": 3
+      },
+      "Kyojuro Rengoku": {
+        "rarity": "SSR",
+        "level": 1,
+        "fragments": 0
+      },
+      "Susamaru": {
+        "rarity": "Uncommon",
+        "level": 1,
+        "fragments": 1
+      },
+      "Swamp Demon": {
+        "rarity": "Rare",
+        "level": 1,
+        "fragments": 1
+      },
+      "Hand Demon": {
+        "rarity": "Rare",
+        "level": 1,
+        "fragments": 1
+      },
+      "Horned Demon": {
+        "rarity": "Common",
+        "level": 1,
+        "fragments": 0
+      },
+      "Yahaba": {
+        "rarity": "Uncommon",
+        "level": 1,
+        "fragments": 1
+      }
+    },
+    "pity": {
+      "ur": 45,
+      "urr": 47,
+      "sr": 28,
+      "ssr": 28
+    },
+    "inventory": {
+      "fragments": {
+        "Tamayo": 1,
+        "Yushiro": 6,
+        "Akaza": 1,
+        "Zenitsu Agatsuma": 4,
+        "Hand Demon": 1,
+        "Swamp Demon": 1,
+        "Susamaru": 1,
+        "Yahaba": 1,
+        "Nezuko Kamado": 1,
+        "Inosuke Hashibira": 1
+      }
+    }
+  },
+  "1312546242961735797": {
+    "balance": 498,
+    "diamonds": 10,
+    "characters": {
+      "Akaza": {
+        "rarity": "SSR",
+        "level": 1,
+        "fragments": 0
+      },
+      "Tamayo": {
+        "rarity": "common",
+        "level": 1,
+        "fragments": 0
+      }
+    },
+    "inventory": {
+      "fragments": {}
+    },
+    "stats": {
+      "level": 1,
+      "xp": 0,
+      "hp": 100,
+      "attack": 10,
+      "defense": 5
+    },
+    "pulls": 0,
+    "createdAt": 1770477042623,
+    "pity": {
+      "sr": 2,
+      "ssr": 2,
+      "ur": 2,
+      "urr": 2
+    }
+  }
+}
