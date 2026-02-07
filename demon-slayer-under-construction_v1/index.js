@@ -36,4 +36,5 @@ client.on('messageCreate', async (message) => {
 client.login(config.token);
 require('./systems/premiumExpiry')(client);
 
-require('app.js')(client);
+require('./app.js')(client);
+
