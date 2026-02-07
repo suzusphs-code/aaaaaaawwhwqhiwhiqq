@@ -3,9 +3,9 @@ const { EmbedBuilder } = require('discord.js');
 module.exports = {
   name: 'ping',
 
-  execute(message, client) {
+  execute(message) {
     const messageLatency = Date.now() - message.createdTimestamp;
-    const apiLatency = Math.round(client.ws.ping);
+    const apiLatency = Math.round(message.client.ws.ping);
 
     const embed = new EmbedBuilder()
       .setTitle('🏓 Pong!')
@@ -14,7 +14,7 @@ module.exports = {
         { name: '📨 Message Latency', value: `${messageLatency}ms`, inline: true },
         { name: '🌐 API Latency', value: `${apiLatency}ms`, inline: true }
       )
-      .setFooter({ text: 'Bot is running smoothly 🚀' });
+      .setFooter({ text: 'Bot is online 🚀' });
 
     message.reply({ embeds: [embed] });
   }
