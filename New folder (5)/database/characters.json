@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tanjiro_kamado",
+    "name": "Tanjiro Kamado",
+    "rarity": "SSR",
+    "type": "Slayer",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f9/Tanjiro_Anime_Profile.png",
+    "attack": 120,
+    "hp": 1000
+  },
+  {
+    "id": "nezuko_kamado",
+    "name": "Nezuko Kamado",
+    "rarity": "SSR",
+    "type": "Demon",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/3b/Nezuko_Anime_Profile.png",
+    "attack": 140,
+    "hp": 1100
+  },
+  {
+    "id": "zenitsu_agatsuma",
+    "name": "Zenitsu Agatsuma",
+    "rarity": "SR",
+    "type": "Slayer",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/46/Zenitsu_Anime_Profile.png",
+    "attack": 100,
+    "hp": 850
+  },
+  {
+    "id": "inosuke_hashibira",
+    "name": "Inosuke Hashibira",
+    "rarity": "SR",
+    "type": "Slayer",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/c2/Inosuke_Anime_Profile.png",
+    "attack": 110,
+    "hp": 900
+  },
+  {
+    "id": "kyojuro_rengoku",
+    "name": "Kyojuro Rengoku",
+    "rarity": "SSR",
+    "type": "Hashira",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e7/Kyojuro_Anime_Profile.png",
+    "attack": 160,
+    "hp": 1200
+  },
+  {
+    "id": "akaza",
+    "name": "Akaza",
+    "rarity": "SSR",
+    "type": "Demon",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/bb/Akaza_Anime_Profile.png",
+    "attack": 170,
+    "hp": 1300
+  },
+  {
+    "id": "muzan_kibutsuji",
+    "name": "Muzan Kibutsuji",
+    "rarity": "UR",
+    "type": "Demon Lord",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/91/Muzan_Anime_Profile.png",
+    "attack": 220,
+    "hp": 2000
+  },
+  {
+    "id": "tamayo",
+    "name": "Tamayo",
+    "rarity": "common",
+    "type": "Demon Doctor",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/bb/Tamayo_Anime_Profile.png",
+    "attack": 45,
+    "hp": 350
+  },
+  {
+    "id": "yushiro",
+    "name": "Yushiro",
+    "rarity": "common",
+    "type": "Demon Assistant",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/26/Yushiro_Anime_Profile.png",
+    "attack": 50,
+    "hp": 400
+  },
+  {
+    "id": "yushiro-aaa",
+    "name": "Yushiro",
+    "rarity": "EVENT",
+    "type": "Demon Assistant",
+    "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/26/Yushiro_Anime_Profile.png",
+    "attack": 50,
+    "hp": 400
+  }
+]
