@@ -43,8 +43,9 @@ client.on('messageCreate', async (message) => {
   if (command) command.execute(message, args);
 });
 
-client.login(config.token);
+client.login(process.env.TOKEN);
 require('./systems/premiumExpiry')(client);
+
 
 
 
